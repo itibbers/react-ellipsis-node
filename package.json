@@ -69,5 +69,14 @@
   },
   "dependencies": {
     "@emotion/css": "^11.9.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itibbers/react-ellipsis-node.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "ellipsis"
+  ]
 }
